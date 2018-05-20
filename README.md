@@ -10,7 +10,7 @@ An optional project to learn about:
 
 ## REQUIREMENTS   
 
-   * all exercise must be kept in separate directories   
+   * all exercises must be kept in separate directories   
    * you can use the language of your choice   
 
 ## EXERCISES   
