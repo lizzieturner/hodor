@@ -8,4 +8,4 @@ for i in range(4096):
     page = requests.get(url)
     pw = page.cookies['HoldTheDoor']
     my_data = {'id': '355', 'holdthedoor': 'Submit', 'key': pw}
-    res = requests.post(url, data=my_data, cookies={"HoldTheDoor":pw})
+    res = requests.post(url, data=my_data, cookies={"HoldTheDoor": pw})
